@@ -14,7 +14,7 @@ Once you have Rust installed, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/your-username/advent-of-code-2024-rust.git`
 2. Navigate to the project directory then the specific day: `cd advent-of-code-2024-rust/day-XX`
-3. Run a specific solution, for example, part 1: `cargo run --bin part1 --release`
+3. Run a specific solution, for example, part 1: `cargo run --bin part1`
 
 The solutions will read input data from the `input.txt` file, located in the `src` of the project. You can replace the provided input files with your own data if needed.
 
