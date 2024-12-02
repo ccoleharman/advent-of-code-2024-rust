@@ -5,6 +5,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 ## Table of Contents
 
 - [Day 1: Historian Hysteria](day-01)
+- [Day 2: Red-Nosed Reports](day-02)
 
 ## Running the Solutions
 
