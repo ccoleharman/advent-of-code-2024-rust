@@ -8,6 +8,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 2: Red-Nosed Reports](day-02)
 - [Day 3: Mull it Over](day-03)
 - [Day 4: Ceres Search](day-04)
+- [Day 5: Print Queue](day-05)
 
 ## Running the Solutions
 
