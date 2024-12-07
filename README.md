@@ -10,6 +10,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 4: Ceres Search](day-04)
 - [Day 5: Print Queue](day-05)
 - [Day 6: Guard Gallivant](day-06)
+- [Day 7: Bridge Repair](day-07)
 
 ## Running the Solutions
 
