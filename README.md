@@ -14,6 +14,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 8: Resonant Collinearity](day-08)
 - [Day 9: Disk Fragmenter](day-09)
 - [Day 10: Hoof It](day-10)
+- [Day 11: Plutonian Pebbles](day-11)
 
 ## Running the Solutions
 
