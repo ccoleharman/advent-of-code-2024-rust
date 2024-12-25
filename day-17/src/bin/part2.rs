@@ -22,7 +22,6 @@ fn part2(input: String) -> u64 {
     let mut tracker = true;
     let mut j = 0;
     while j < program.len() {
-        println!("{a}");
         if tracker {a *= 8;}
         for i in 0..8 {
             let (mut b, c);
