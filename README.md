@@ -20,6 +20,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 14: Restroom Redoubt](day-14)
 - [Day 15: Warehouse Woes](day-15)
 - [Day 16: Reindeer Maze](day-16)
+- [Day 17: Chronospatial Computer](day-17)
 
 ## Running the Solutions
 
