@@ -24,6 +24,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 18: RAM Run](day-18)
 - [Day 19: Linen Layout](day-19)
 - [Day 20: Race Condition](day-20)
+- [Day 21: Keypad Conundrum](day-21)
 
 ## Running the Solutions
 
