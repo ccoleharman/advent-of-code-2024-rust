@@ -26,6 +26,7 @@ Welcome to my solutions for the [Advent of Code 2024](https://adventofcode.com/2
 - [Day 20: Race Condition](day-20)
 - [Day 21: Keypad Conundrum](day-21)
 - [Day 22: Monkey Market](day-22)
+- [Day 23: LAN Party](day-23)
 
 ## Running the Solutions
 
